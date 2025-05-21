@@ -234,12 +234,3 @@ enums = {
 		}
 	}
 }
-
-enums = {
-	complex_enum[building_sets] = {
-		path = "game/common/planet_classes"
-		name = {
-			building_set = enum_name
-		}
-	}
-}
