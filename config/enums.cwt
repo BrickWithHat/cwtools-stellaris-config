@@ -425,4 +425,35 @@ enums = {
 		excessive
 		none
 	}
+	enum[building_sets] = {
+		government
+		research
+		physics
+		society
+		engineering
+		urban
+		trade
+		entertaiment
+		resort
+		industrial
+		foundry
+		factory
+		unity
+		fortress
+		generator
+		farming
+		mining
+		betharian
+		zoo
+		pre_ftl
+		fallen_empire
+		fallen_empire_farming
+		fallen_empire_generator
+		fallen_empire_mining
+		hunting_zone
+		origin
+		knights
+		hydroponics
+		cosmogenesis_world
+	}
 }
