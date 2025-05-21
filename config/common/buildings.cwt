@@ -95,7 +95,8 @@ building = {
 	skip_automation_upgrading = bool
 
 	## cardinality = 0..1
-	### used to match with a planet class' building set, can be assigned to multiple sets. Used to remove from construction lists
+	### used to match with a planet class' building set, can be assigned to multiple sets. Used to remove from construction lists (outdated tooltip)
+	### modern use is to either allow or deny a building in set district type.
 	building_sets = {
 		## cardinality = 1..inf
 		enum[building_sets]
